@@ -1,3 +1,5 @@
+![screenshot](assets/screenshot.png)
+
 # ynabtotalbalanceamount
 Restores a TOTAL row in the YNAB sidebar that sums your Cash and Credit balances — just like it used to be! 🎉
 
